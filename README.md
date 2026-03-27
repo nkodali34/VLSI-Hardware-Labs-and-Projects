@@ -1,1 +1,1 @@
-# VLSI-Hardware-Labs
+# VLSI Hardware Labs and Projects 
